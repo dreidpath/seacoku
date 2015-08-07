@@ -11,3 +11,10 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+.Rproj.user
+
+# Ignore the data files
+*RData
+
+# Ignore private notes
+notes/*
